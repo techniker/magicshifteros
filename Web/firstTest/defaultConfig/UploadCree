@@ -1,0 +1,19 @@
+../../../Tester/raspberry/MagicTest.py up ExtractedFont10x16_1bit_128.magicFont 128
+../../../Tester/raspberry/MagicTest.py up ExtractedFont7x12_1bit_129.magicFont 129
+../../../Tester/raspberry/MagicTest.py up ExtractedFont6x8_1bit_130.magicFont 130
+../../../Tester/raspberry/MagicTest.py up ExtractedFont4x6_1bit_131.magicFont 131
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/01_heart2_RGB.magicBitmap 1
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/13_star_RGB.magicBitmap 2
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/03_smilie_RGB.magicBitmap 3
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/04_oneup.magicBitmap 4
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/05_mushroom_RGB.magicBitmap 5
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/06_mario_RGB.magicBitmap 6
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/07_blueGhost_RGB.magicBitmap 7
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/08_redGhost_RGB.magicBitmap 8
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/09_BubbleBobble_RGB.magicBitmap 9
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/10_invader_RGB.magicBitmap 10
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/11_giraffe_RGB.magicBitmap 11
+../../../Tester/raspberry/MagicTest.py up bitmaps_cree/12_cursor_RGB.magicBitmap 12
+
+
+
